@@ -1,0 +1,21 @@
+.photo1{
+    position: absolute;
+    left: 450px;
+    text-align: center;
+
+}
+
+.photo2{
+    top: 30px;
+    left: 550px;
+    border: 1px solid white;
+    background-color: white;
+    text-align: center;
+}
+
+.photo4{
+    position: absolute;
+    top: 80px;
+    left: 450px;
+    text-align: center;
+}

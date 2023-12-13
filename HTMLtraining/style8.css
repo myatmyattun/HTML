@@ -1,0 +1,23 @@
+.mytest1{
+    width: 300px;
+    height: 300px;
+    background-color: brown;
+    color: aliceblue;
+    font-size: 100px;
+}
+
+.mytest2{
+    width: 300px;
+    height: 300px;
+    background-color: palevioletred;
+    color: aliceblue;
+    font-size: 100px;
+}
+
+.mytest3{
+    width: 300px;
+    height: 300px;
+    background-color: greenyellow;
+    color: aliceblue;
+    font-size: 100px;
+}

@@ -1,0 +1,17 @@
+.mine1{
+    width: 550px;
+    height: 200px;
+    border: 1px solid black;
+   background-color: blueviolet;
+}
+
+.mine2{
+    position: absolute;
+    top: 50px;
+  
+}
+
+.mine3{
+    position: absolute;
+    left: 120px;
+}

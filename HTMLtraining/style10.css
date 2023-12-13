@@ -1,0 +1,26 @@
+table{
+  border: 3px solid blue;  
+  width: 300px;
+  border-collapse: collapse;
+}
+th{
+    border: 3px solid green;
+}
+td{
+    border: 3px solid red;
+    text-align: center;
+}
+
+
+h1{font-size: 60px;
+    text-align: left;
+    color: blue;   
+}
+
+p{font-size: 30px;
+    text-align: left;
+    color: purple;
+     
+}
+
+

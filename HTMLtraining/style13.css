@@ -1,0 +1,469 @@
+.photo1{
+    position: absolute;
+    left: 100px;
+}
+
+.photo2{
+    width: 400px;
+    height: 120px;
+    border: 1px solid white;
+    background-color: white;
+
+}
+
+.photo3{
+    position: absolute;
+    top: 100px;
+    left: 85px;
+}
+
+.photo4{
+    position: absolute;
+    top: 80px;
+    left: 10px;
+}
+
+.photo5{
+    position: absolute;
+    left: 10px;
+    top: 200px;
+}
+
+.photo6{
+    position: absolute;
+    top: 250px;
+    left: 15px;
+}
+
+.photo7{
+    position: absolute;
+    top: 250px;
+    left: 80px;
+}
+
+.photo8{
+    position: absolute;
+    top: 250px;
+    left: 150px;
+}
+
+
+.photo9{
+    position: absolute;
+    top: 250px;
+    left: 210px;
+}
+
+.photo10{
+    position: absolute;
+    top: 250px;
+    left: 270px;
+}
+
+.photo11{
+    position: absolute;
+    top: 320px;
+    left: 15px;
+}
+
+.photo12{
+    position: absolute;
+    top: 320px;
+    left: 80px;
+}
+
+.photo13{
+    position: absolute;
+    top: 320px;
+    left: 150px;
+}
+
+.photo14{
+    position: absolute;
+    top: 320px;
+    left: 210px;
+}
+
+.photo15{
+    position: absolute;
+    top: 320px;
+    left: 280px;
+}
+
+.photo16{
+    position: absolute;
+    top: 380px;
+    left: 15px;
+}
+
+
+.photo17{
+    position: absolute;
+    top: 430px;
+    left: 15px;
+}
+
+
+.photo18{
+    position: absolute;
+    top: 430px;
+    left: 80px;
+}
+
+.photo19{
+    position: absolute;
+    top: 430px;
+    left: 150px;
+}
+
+.photo20{
+    position: absolute;
+    top: 430px;
+    left: 210px;
+}
+
+.photo21{
+    position: absolute;
+    top: 430px;
+    left: 280px;
+}
+
+.photo22{
+    position: absolute;
+    top: 500px;
+    left: 15px;
+}
+.photo23{
+    position: absolute;
+    top: 500px;
+    left: 75px;
+}
+
+.photo24{
+    position: absolute;
+    top: 500px;
+    left: 150px;
+}
+
+.photo25{
+    position: absolute;
+    top: 500px;
+    left: 210px;
+}
+
+.photo26{
+    position: absolute;
+    top: 500px;
+    left: 270px;
+}
+
+.photo27{
+    position: absolute;
+    top: 130px;
+    left: -250px;
+    font-size: 10px;
+}
+
+.photo28{
+    position: absolute;
+    top: 130px;
+    left: -260px;
+    font-size: 25px;
+}
+
+.photo29{
+    position: absolute;
+    top: 180px;
+    left: -270px;
+    font-size: 10px;
+}
+
+.photo30{
+    position: absolute;
+    top: 235px;
+    left: -140px;
+    font-size: 15;
+}
+
+.photo31{
+    position: absolute;
+    top: 100px;
+    left: -100px;
+}
+
+.photo32{
+    position: absolute;
+    top: 270px;
+    left: -200px;
+}
+
+.photo33{
+    position: absolute;
+    top: 440px;
+    left: -250px;
+    font-size: 15px;
+}
+
+
+.photo34{
+    position: absolute;
+    top: 470px;
+    left: -250px;
+    font-size: 10px;
+}
+
+.photo35{
+    position: absolute;
+    top: 500px;
+    left: -250px;
+   
+}
+
+.photo36{
+    position: absolute;
+    top: 800px;
+    left: -250px;
+    font-size: 10px;
+   
+}
+
+.photo37{
+    position: absolute;
+    top: 830px;
+    left: -250px;
+   
+}
+
+.photo38{
+    position: absolute;
+    top: 830px;
+    left: -150px;
+   
+}
+
+
+.photo39{
+    position: absolute;
+    top: 830px;
+    left: -50px;
+   
+}
+.photo40{
+    position: absolute;
+    top: 50px;
+    left: 40px;
+    font-size: 15px;
+   
+}
+
+.photo41{
+    position: absolute;
+    top: 940px;
+    left: -250px;
+    font-size: 15px;
+
+   
+}
+
+
+.photo42{
+    position: absolute;
+    top: 960px;
+    left: -230px;
+    font-size: 10px;
+   
+}
+
+.photo43{
+    position: absolute;
+    top: 980px;
+    left: -250px;
+    font-size: 15px;
+}
+
+
+.photo44{
+    position: absolute;
+    top: 1015px;
+    left: -250px;
+    
+}
+.photo45{
+    position: absolute;
+    top: 1030px;
+    left: -90px;
+    font-size: 9px;
+    
+}
+
+.photo46{
+    position: absolute;
+    top: 1050px;
+    left: -90px;
+    font-size: 13px;
+    
+}
+
+.photo47{
+    position: absolute;
+    top: 1170px;
+    left: -250px; 
+}
+.photo48{
+    position: absolute;
+    top: 1170px;
+    left: -150px; 
+}
+
+.photo49{
+    position: absolute;
+    top: 1170px;
+    left: -60px; 
+}
+
+.photo50{
+    position: absolute;
+    top: 1210px;
+    left: -30px;
+    font-size: 20px;
+}
+
+.photo51{
+    position: absolute;
+    top: 1280px;
+    left: -250px;
+    font-size: 20px;
+}
+.photo52{
+    position: absolute;
+    top: 1340px;
+    left: -250px;
+    font-size: 9px;
+    
+}
+.photo53{
+    position: absolute;
+    top: 1390px;
+    left: -70px;
+    font-size: 11px;
+    
+}
+.photo54{
+    position: absolute;
+    top: 1400px;
+    left: -70px;
+    font-size: 15px;
+    
+}
+.photo55{
+    position: absolute;
+    top: 1530px;
+    left: -250px; 
+}
+
+.photo56{
+    position: absolute;
+    top: 1530px;
+    left: -200px; 
+}
+.photo57{
+    position: absolute;
+    top: 1530px;
+    left: -130px; 
+}
+.photo58{
+    position: absolute;
+    top: 1610px;
+    left: -250px; 
+}
+.photo59{
+    position: absolute;
+    top: 1620px;
+    left: -200px; 
+}
+.photo60{
+    position: absolute;
+    top: 1610px;
+    left: -130px; 
+}
+.photo61{
+    position: absolute;
+    top: 1580px;
+    left: -50px; 
+    font-size: 10px;
+}
+.photo62{
+    position: absolute;
+    top: 1700px;
+    left: -250px; 
+ 
+}
+.photo63{
+    position: absolute;
+    top: 1750px;
+    left: -60px; 
+ font-size: 13px;
+}
+.photo64{
+    position: absolute;
+    top: 1930px;
+    left: -250px; 
+}
+.photo65{
+    position: absolute;
+    top: 1930px;
+    left: -150px; 
+}
+
+.photo66{
+    position: absolute;
+    top: 1930px;
+    left: -50px; 
+}
+.photo67{
+    position: absolute;
+    top: 2000px;
+    left: -250px; 
+    font-size: 15px;
+}
+.photo68{
+    position: absolute;
+    top: 2100px;
+    left: -250px; 
+  
+}
+.photo69{
+    position: absolute;
+    top: 2200px;
+    left: -60px; 
+    font-size: 15px;
+  
+}
+
+
+.photo70{
+    position: absolute;
+    top: 2380px;
+    left: -250px;
+    font-size: 19px;
+
+}
+.photo71{
+    position: absolute;
+    top: 2420px;
+    left: -250px; 
+
+}
+.photo72{
+    position: absolute;
+    top: 2450px;
+    left: -250px; 
+
+}
+.photo73{
+    position: absolute;
+    top: 2510px;
+    left: -250px;
+    font-size: 12px;
+
+}
